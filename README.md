@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @ayusharpit
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning java...
+- 🌱 I’m currently learning java and c++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me by mail id- ayusharpit.nayak@gmail.com
+-
 
 <!---
 ayusharpit/ayusharpit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
