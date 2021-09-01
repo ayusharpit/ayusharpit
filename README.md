@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ayusharpit
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning java and c++
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me by mail id- ayusharpit.nayak@gmail.com
 -
 
