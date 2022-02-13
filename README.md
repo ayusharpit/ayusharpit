@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ayush Arpit</h1>
-<h3 align="center">A backend web developer.</h3>
+<h3 align="center">A Front-end web developer.</h3>
 
 <br>
 
