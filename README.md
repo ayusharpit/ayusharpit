@@ -12,11 +12,11 @@
 <p><img align="right" src="https://github.com/ayusharpit/ayusharpit/blob/main/animation_500_kxa883sd.gif" alt="ayusharpit" /></p>
 
 
-- 🌱 I’m currently learning python and other programming languages
+- 🌱 Destined to be different.
 
 - 📫 How to reach me **ayusharpit.nayak@gmail.com**
 
-- ⚡ Fun fact :- I am a machine
+- ⚡ I am ded
 
 <br>
 
