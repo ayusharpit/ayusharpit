@@ -9,7 +9,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/ayusharpit/ayusharpit/blob/main/animation_500_kxa883sd.gif" alt="ayusharpit" /></p>
+<p><img align="right" src="https://github.com/ayusharpit/ayusharpit/blob/main/code.gif" alt="ayusharpit" /></p>
 
 
 - 🌱 Destined to be different.
